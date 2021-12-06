@@ -1,0 +1,1 @@
+export { getGreetings } from './lib/getGreetings';
