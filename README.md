@@ -1,5 +1,9 @@
 # React and Spring Boot Maven starter Template
 
+![alt text](https://user-images.githubusercontent.com/62385965/144881389-1befd6c4-4d00-4710-aaa2-42a4189fcc42.PNG)
+
+## Overview
+
 Use this project to quickly create a React and Sprint boot application. Single project contains backend and frontend folders.
 
 This project is pre-configured with below libraries
